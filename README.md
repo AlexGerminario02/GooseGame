@@ -7,16 +7,17 @@ Funzionalità principali
 Modalità classica (90 caselle, 4 giocatori) e personalizzata
 Salvataggio/caricamento delle partite su slot
 Classifica dei giocatori basata sul numero di lanci
-Caselle speciali implementate:
-Oca
-Ponte
-Pozzo
-Prigione
-Locanda
-Scheletro
-Labirinto
-Menu di navigazione con:
-Inizio partita
-Regolamento
-Visualizza classifica
-Esci
+### Caselle speciali implementate:
+-Oca
+-Ponte
+-Pozzo
+-Prigione
+-Locanda
+-Scheletro
+-Labirinto
+
+### Menu di navigazione con:
+-Inizio partita
+-Regolamento
+-Visualizza classifica
+-Esci
